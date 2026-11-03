@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Learning Journey</title>
+</head>
+
+<body>
+
+    <h1>My Learning Journey</h1>
+    <p>Web Design Workshop - I</p>
+
+    <hr>
+
+    <h2>Programming Languages</h2>
+    <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>C++</li>
+    </ul>
+
+    <hr>
+
+    <h2>Steps to Create a Web Page</h2>
+    <ol>
+        <li>Plan your website</li>
+        <li>Design the layout</li>
+        <li>Write HTML and CSS code</li>
+        <li>Publish the website</li>
+    </ol>
+
+    <hr>
+
+    <h2>Subjects and Topics</h2>
+
+    <h3>1. Computer Science</h3>
+    <ul>
+        <li>Web Technology</li>
+        <li>Data Structures</li>
+    </ul>
+
+    <h3>2. Mathematics</h3>
+    <ul>
+        <li>Calculus</li>
+        <li>Linear Algebra</li>
+    </ul>
+
+    <hr>
+
+    <h2>Student Details</h2>
+    <p><b>Serial Number:</b> 01</p>
+    <p><b>Name:</b> Raj Yadav</p>
+    <p><b>Course:</b> B.Tech CSE</p>
+
+    <p>Created by Raj Yadav | Web Design Workshop</p>
+
+</body>
+</html>
